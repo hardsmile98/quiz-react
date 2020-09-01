@@ -12,6 +12,8 @@
 /build
 
 /public
+/scripts
+/config
 
 # misc
 .DS_Store
